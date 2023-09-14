@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula2</string>
+    <string name="btnGerarNumero" >Gerar Novos Números</string>
+    <string name="btnPar">Mostrar Apenas Pares</string>
+    <string name="btnImpar">Mostrar Apenas Pares</string>
+    <string name="btnPrimo" >Mostrar Apenas Números Primos</string>
+    <string name="btnCrescente">Ordem Crescente</string>
+    <string name="btnDecrescente">Ordem Decrescente</string>
+    <string name="txtTituloResultado">Resultado:</string>
+</resources>
